@@ -97,6 +97,7 @@ C:\PhotoSharingApplication1\bin\Newtonsoft.Json.dll
 C:\PhotoSharingApplication1\bin\System.Net.Http.dll
 C:\PhotoSharingApplication1\bin\System.Net.Http.WebRequest.dll
 C:\PhotoSharingApplication1\bin\System.Web.Helpers.dll
+C:\PhotoSharingApplication1\bin\System.Web.Http.WebHost.dll
 C:\PhotoSharingApplication1\bin\System.Web.Razor.dll
 C:\PhotoSharingApplication1\bin\System.Web.WebPages.Deployment.dll
 C:\PhotoSharingApplication1\bin\System.Web.WebPages.dll
@@ -110,6 +111,7 @@ C:\PhotoSharingApplication1\bin\Microsoft.Web.Infrastructure.xml
 C:\PhotoSharingApplication1\bin\System.Net.Http.xml
 C:\PhotoSharingApplication1\bin\System.Net.Http.WebRequest.xml
 C:\PhotoSharingApplication1\bin\System.Web.Helpers.xml
+C:\PhotoSharingApplication1\bin\System.Web.Http.WebHost.xml
 C:\PhotoSharingApplication1\bin\System.Web.Mvc.xml
 C:\PhotoSharingApplication1\bin\System.Web.Razor.xml
 C:\PhotoSharingApplication1\bin\System.Web.WebPages.xml
@@ -158,5 +160,3 @@ C:\PhotoSharingApplication1\bin\zh-Hant\System.Spatial.resources.dll
 C:\PhotoSharingApplication1\obj\Debug\PhotoSharingApplication1.csprojResolveAssemblyReference.cache
 C:\PhotoSharingApplication1\obj\Debug\PhotoSharingApplication1.dll
 C:\PhotoSharingApplication1\obj\Debug\PhotoSharingApplication1.pdb
-C:\PhotoSharingApplication1\bin\System.Web.Http.WebHost.dll
-C:\PhotoSharingApplication1\bin\System.Web.Http.WebHost.xml
