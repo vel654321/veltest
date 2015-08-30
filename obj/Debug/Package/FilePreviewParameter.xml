@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="VelPhotoSharing" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:h8jn0xrsie.database.windows.net,1433;Initial Catalog=TestDb;Integrated Security=False;User ID=vinay@h8jn0xrsie;Password=Indi@123;Connect Timeout=30;Encrypt=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="PhotoAppServices-Web.config Connection String" description="" value="Data Source=tcp:px91ivmcdq.database.windows.net,1433;Initial Catalog=PhotoAppServices;Integrated Security=False;User ID=tnarasim@px91ivmcdq;Password=kugan@123;Connect Timeout=30;Encrypt=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PhotoAppServices']/@connectionString" />
+  </parameter>
+</parameters>

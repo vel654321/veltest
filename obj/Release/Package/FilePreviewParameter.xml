@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="capgeminivel" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="PhotoAppServices-Web.config Connection String" description="" value="Server=tcp:bshsl5s91o.database.windows.net,1433;Database=PhotoAppServices;User ID=tnarasim@bshsl5s91o;Password=kugan@123;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PhotoAppServices']/@connectionString" />
+  </parameter>
+  <parameter name="PhotoSharingApplication1.Models.PhotoSharingContext-Web.config Connection String" description="" value="PhotoSharingApplication1.Models.PhotoSharingContext_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PhotoSharingApplication1.Models.PhotoSharingContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." value="Server=tcp:bshsl5s91o.database.windows.net,1433;Database=PhotoSharingDB;User ID=tnarasim@bshsl5s91o;Password=kugan@123;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tnarasim\\documents\\visual\ studio\ 2013\\Projects\\PhotoSharingApplication1\\PhotoSharingApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
